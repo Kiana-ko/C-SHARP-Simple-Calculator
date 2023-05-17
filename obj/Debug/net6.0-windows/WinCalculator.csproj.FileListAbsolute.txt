@@ -1,0 +1,17 @@
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.csproj.AssemblyReference.cache
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.Form1.resources
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.csproj.GenerateResource.cache
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.AssemblyInfoInputs.cache
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.AssemblyInfo.cs
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\000471492\source\repos\WinCalculator\bin\Debug\net6.0-windows\WinCalculator.exe
+C:\Users\000471492\source\repos\WinCalculator\bin\Debug\net6.0-windows\WinCalculator.deps.json
+C:\Users\000471492\source\repos\WinCalculator\bin\Debug\net6.0-windows\WinCalculator.runtimeconfig.json
+C:\Users\000471492\source\repos\WinCalculator\bin\Debug\net6.0-windows\WinCalculator.dll
+C:\Users\000471492\source\repos\WinCalculator\bin\Debug\net6.0-windows\WinCalculator.pdb
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.dll
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\refint\WinCalculator.dll
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.pdb
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\WinCalculator.genruntimeconfig.cache
+C:\Users\000471492\source\repos\WinCalculator\obj\Debug\net6.0-windows\ref\WinCalculator.dll
